@@ -1,0 +1,6 @@
+stm32g0xxx6		32	36
+stm32g0xxx6-ecc	32	32
+stm32g0xxx8		64	36
+stm32g0xxx8-ecc	64	32
+stm32g0xxxb		128	36
+stm32g0xxxb-ecc	128	32
